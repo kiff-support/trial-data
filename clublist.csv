@@ -13,3 +13,4 @@ clubid,name,address,city,postcode,longtiude,latitude,phone
 1012,HAVANA,25 Yeoman Street,Leicester,LE1 1UT ,52.6352651,-1.1288846,0116 253 1771
 1013,REVOLUTION,6 New Walk,Leicester,LE1 6TF,52.6300869,-1.129796,0116 255 9633
 1014,O2 Academy,University Rd,Leicester,LE1 7RH,52.6217203,-1.1252799,0116 223 1181
+1015,Test,Fake Rd,Leicester,LE1 7RH,52.6207203,-1.1152799,0116 223 1181
