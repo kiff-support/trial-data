@@ -1,99 +1,99 @@
 id,name,dayid,day,8,9,10,11,12,1,2,3,4,5
-1001,CLUB REPUBLIC,1,mon,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1001,CLUB REPUBLIC,2,tue,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1001,CLUB REPUBLIC,3,wed,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1001,CLUB REPUBLIC,4,thu,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1001,CLUB REPUBLIC,5,fri,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1001,CLUB REPUBLIC,6,sat,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1001,CLUB REPUBLIC,7,sun,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1002,THE FAN CLUB,1,mon,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1002,THE FAN CLUB,2,tue,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1002,THE FAN CLUB,3,wed,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1002,THE FAN CLUB,4,thu,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1002,THE FAN CLUB,5,fri,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1002,THE FAN CLUB,6,sat,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1002,THE FAN CLUB,7,sun,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1003,VENOM,1,mon,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1003,VENOM,2,tue,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1003,VENOM,3,wed,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1003,VENOM,4,thu,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+1001,CLUB REPUBLIC,1,mon,0,0,0,0,0,0,0,0,0,0
+1001,CLUB REPUBLIC,2,tue,0,0,0,0,0,0,0,0,0,0
+1001,CLUB REPUBLIC,3,wed,0,0,0,0,0,0,0,0,0,0
+1001,CLUB REPUBLIC,4,thu,0,0,0,0,0,0,0,0,0,0
+1001,CLUB REPUBLIC,5,fri,0,0,0,0,0,0,0,0,0,0
+1001,CLUB REPUBLIC,6,sat,0,0,0,0,0,0,0,0,0,0
+1001,CLUB REPUBLIC,7,sun,0,0,0,0,0,0,0,0,0,0
+1002,THE FAN CLUB,1,mon,0,0,0,0,0,0,0,0,0,0
+1002,THE FAN CLUB,2,tue,0,0,0,0,0,0,0,0,0,0
+1002,THE FAN CLUB,3,wed,0,0,0,0,0,0,0,0,0,0
+1002,THE FAN CLUB,4,thu,0,0,0,0,0,0,0,0,0,0
+1002,THE FAN CLUB,5,fri,0,0,0,0,0,0,0,0,0,0
+1002,THE FAN CLUB,6,sat,0,0,0,0,0,0,0,0,0,0
+1002,THE FAN CLUB,7,sun,0,0,0,0,0,0,0,0,0,0
+1003,VENOM,1,mon,0,0,0,0,0,0,0,0,0,0
+1003,VENOM,2,tue,0,0,0,0,0,0,0,0,0,0
+1003,VENOM,3,wed,0,0,0,0,0,0,0,0,0,0
+1003,VENOM,4,thu,0,0,0,0,0,0,0,0,0,0
 1003,VENOM,5,fri,0,0,0.02,0.05,0.11,0.14,0.13,0.07,0,0
-1003,VENOM,6,sat,0,0,0.22,0.47,0.77,0.95,0.86,0.60,0,0
-1003,VENOM,7,sun,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1004,THE BASEMENT,1,mon,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1004,THE BASEMENT,2,tue,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1004,THE BASEMENT,3,wed,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1004,THE BASEMENT,4,thu,0.00,0.00,0.00,0.04,0.15,0.37,0.49,0.33,0.49,0.00
-1004,THE BASEMENT,5,fri,0.00,0.00,0.00,0.00,0.04,0.19,0.46,0.66,0.71,0.33
-1004,THE BASEMENT,6,sat,0.00,0.00,0.10,0.19,0.30,0.46,0.75,0.95,0.00,0.00
-1004,THE BASEMENT,7,sun,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1005,MOSH,1,mon,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1005,MOSH,2,tue,0.00,0.00,0.00,0.30,0.64,0.82,0.67,0.00,0.00,0.00
-1005,MOSH,3,wed,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1005,MOSH,4,thu,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1005,MOSH,5,fri,0.00,0.00,0.00,0.34,0.62,0.75,0.58,0.00,0.00,0.00
-1005,MOSH,6,sat,0.00,0.00,0.00,0.31,0.71,0.95,0.74,0.00,0.00,0.00
-1005,MOSH,7,sun,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1006,HELSINKI,1,mon,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1006,HELSINKI,2,tue,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1006,HELSINKI,3,wed,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1006,HELSINKI,4,thu,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1006,HELSINKI,5,fri,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1006,HELSINKI,6,sat,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1006,HELSINKI,7,sun,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1007,XY,1,mon,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1007,XY,2,tue,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1007,XY,3,wed,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1007,XY,4,thu,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1007,XY,5,fri,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1007,XY,6,sat,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1007,XY,7,sun,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1008,GHOST,1,mon,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1008,GHOST,2,tue,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1008,GHOST,3,wed,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1008,GHOST,4,thu,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1008,GHOST,5,fri,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1008,GHOST,6,sat,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1008,GHOST,7,sun,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1009,FAT CAT BAR,1,mon,0.05,0.05,0.08,0.10,0.09,0.00,0.00,0.00,0.00,0.00
-1009,FAT CAT BAR,2,tue,0.04,0.04,0.07,0.07,0.06,0.00,0.00,0.00,0.00,0.00
-1009,FAT CAT BAR,3,wed,0.04,0.04,0.05,0.05,0.04,0.00,0.00,0.00,0.00,0.00
-1009,FAT CAT BAR,4,thu,0.06,0.06,0.07,0.18,0.30,0.37,0.30,0.00,0.00,0.00
-1009,FAT CAT BAR,5,fri,0.15,0.19,0.26,0.35,0.37,0.33,0.20,0.00,0.00,0.00
-1009,FAT CAT BAR,6,sat,0.13,0.16,0.31,0.60,0.90,0.95,0.67,0.00,0.00,0.00
-1009,FAT CAT BAR,7,sun,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1010,MARZ BAR,1,mon,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1010,MARZ BAR,2,tue,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1010,MARZ BAR,3,wed,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1010,MARZ BAR,4,thu,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1010,MARZ BAR,5,fri,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1010,MARZ BAR,6,sat,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1010,MARZ BAR,7,sun,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1011,BLUEPRINT,1,mon,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1011,BLUEPRINT,2,tue,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1011,BLUEPRINT,3,wed,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1011,BLUEPRINT,4,thu,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1011,BLUEPRINT,5,fri,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1011,BLUEPRINT,6,sat,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1011,BLUEPRINT,7,sun,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1012,HAVANA,1,mon,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1012,HAVANA,2,tue,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1012,HAVANA,3,wed,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1012,HAVANA,4,thu,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1012,HAVANA,5,fri,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1012,HAVANA,6,sat,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1012,HAVANA,7,sun,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1013,REVOLUTION,1,mon,0.18,0.18,0.24,0.35,0.45,0.37,0.20,0.00,0.00,0.00
-1013,REVOLUTION,2,tue,0.14,0.11,0.14,0.14,0.11,0.08,0.04,0.00,0.00,0.00
-1013,REVOLUTION,3,wed,0.11,0.11,0.15,0.24,0.28,0.19,0.08,0.00,0.00,0.00
-1013,REVOLUTION,4,thu,0.11,0.11,0.11,0.18,0.23,0.21,0.13,0.00,0.00,0.00
-1013,REVOLUTION,5,fri,0.45,0.60,0.64,0.59,0.55,0.55,0.36,0.00,0.00,0.00
-1013,REVOLUTION,6,sat,0.41,0.56,0.79,0.95,0.94,0.73,0.45,0.00,0.00,0.00
-1013,REVOLUTION,7,sun,0.10,0.10,0.14,0.18,0.21,0.21,0.19,0.00,0.00,0.00
-1014,O2 Academy,1,mon,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1014,O2 Academy,2,tue,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1014,O2 Academy,3,wed,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1014,O2 Academy,4,thu,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1014,O2 Academy,5,fri,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1014,O2 Academy,6,sat,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
-1014,O2 Academy,7,sun,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+1003,VENOM,6,sat,0,0,0.22,0.47,0.77,0.95,0.86,0.6,0,0
+1003,VENOM,7,sun,0,0,0,0,0,0,0,0,0,0
+1004,THE BASEMENT,1,mon,0,0,0,0,0,0,0,0,0,0
+1004,THE BASEMENT,2,tue,0,0,0,0,0,0,0,0,0,0
+1004,THE BASEMENT,3,wed,0,0,0,0,0,0,0,0,0,0
+1004,THE BASEMENT,4,thu,0,0,0,0.04,0.15,0.37,0.49,0.33,0.49,0
+1004,THE BASEMENT,5,fri,0,0,0,0,0.04,0.19,0.46,0.66,0.71,0.33
+1004,THE BASEMENT,6,sat,0,0,0.1,0.19,0.3,0.46,0.75,0.95,0,0
+1004,THE BASEMENT,7,sun,0,0,0,0,0,0,0,0,0,0
+1005,MOSH,1,mon,0,0,0,0,0,0,0,0,0,0
+1005,MOSH,2,tue,0,0,0,0.3,0.64,0.82,0.67,0,0,0
+1005,MOSH,3,wed,0,0,0,0,0,0,0,0,0,0
+1005,MOSH,4,thu,0,0,0,0,0,0,0,0,0,0
+1005,MOSH,5,fri,0,0,0,0.34,0.62,0.75,0.58,0,0,0
+1005,MOSH,6,sat,0,0,0,0.31,0.71,0.95,0.74,0,0,0
+1005,MOSH,7,sun,0,0,0,0,0,0,0,0,0,0
+1006,HELSINKI,1,mon,0,0,0,0,0,0,0,0,0,0
+1006,HELSINKI,2,tue,0,0,0,0,0,0,0,0,0,0
+1006,HELSINKI,3,wed,0,0,0,0,0,0,0,0,0,0
+1006,HELSINKI,4,thu,0,0,0,0,0,0,0,0,0,0
+1006,HELSINKI,5,fri,0,0,0,0,0,0,0,0,0,0
+1006,HELSINKI,6,sat,0,0,0,0,0,0,0,0,0,0
+1006,HELSINKI,7,sun,0,0,0,0,0,0,0,0,0,0
+1007,XY,1,mon,0,0,0,0,0,0,0,0,0,0
+1007,XY,2,tue,0,0,0,0,0,0,0,0,0,0
+1007,XY,3,wed,0,0,0,0,0,0,0,0,0,0
+1007,XY,4,thu,0,0,0,0,0,0,0,0,0,0
+1007,XY,5,fri,0,0,0,0,0,0,0,0,0,0
+1007,XY,6,sat,0,0,0,0,0,0,0,0,0,0
+1007,XY,7,sun,0,0,0,0,0,0,0,0,0,0
+1008,GHOST,1,mon,0,0,0,0,0,0,0,0,0,0
+1008,GHOST,2,tue,0,0,0,0,0,0,0,0,0,0
+1008,GHOST,3,wed,0,0,0,0,0,0,0,0,0,0
+1008,GHOST,4,thu,0,0,0,0,0,0,0,0,0,0
+1008,GHOST,5,fri,0,0,0,0,0,0,0,0,0,0
+1008,GHOST,6,sat,0,0,0,0,0,0,0,0,0,0
+1008,GHOST,7,sun,0,0,0,0,0,0,0,0,0,0
+1009,FAT CAT BAR,1,mon,0.05,0.05,0.08,0.1,0.09,0,0,0,0,0
+1009,FAT CAT BAR,2,tue,0.04,0.04,0.07,0.07,0.06,0,0,0,0,0
+1009,FAT CAT BAR,3,wed,0.04,0.04,0.05,0.05,0.04,0,0,0,0,0
+1009,FAT CAT BAR,4,thu,0.06,0.06,0.07,0.18,0.3,0.37,0.3,0,0,0
+1009,FAT CAT BAR,5,fri,0.15,0.19,0.26,0.35,0.37,0.33,0.2,0,0,0
+1009,FAT CAT BAR,6,sat,0.13,0.16,0.31,0.6,0.9,0.95,0.67,0,0,0
+1009,FAT CAT BAR,7,sun,0,0,0,0,0,0,0,0,0,0
+1010,MARZ BAR,1,mon,0,0,0,0,0,0,0,0,0,0
+1010,MARZ BAR,2,tue,0,0,0,0,0,0,0,0,0,0
+1010,MARZ BAR,3,wed,0,0,0,0,0,0,0,0,0,0
+1010,MARZ BAR,4,thu,0,0,0,0,0,0,0,0,0,0
+1010,MARZ BAR,5,fri,0,0,0,0,0,0,0,0,0,0
+1010,MARZ BAR,6,sat,0,0,0,0,0,0,0,0,0,0
+1010,MARZ BAR,7,sun,0,0,0,0,0,0,0,0,0,0
+1011,BLUEPRINT,1,mon,0,0,0,0,0,0,0,0,0,0
+1011,BLUEPRINT,2,tue,0,0,0,0,0,0,0,0,0,0
+1011,BLUEPRINT,3,wed,0,0,0,0,0,0,0,0,0,0
+1011,BLUEPRINT,4,thu,0,0,0,0,0,0,0,0,0,0
+1011,BLUEPRINT,5,fri,0,0,0,0,0,0,0,0,0,0
+1011,BLUEPRINT,6,sat,0,0,0,0,0,0,0,0,0,0
+1011,BLUEPRINT,7,sun,0,0,0,0,0,0,0,0,0,0
+1012,HAVANA,1,mon,0,0,0,0,0,0,0,0,0,0
+1012,HAVANA,2,tue,0,0,0,0,0,0,0,0,0,0
+1012,HAVANA,3,wed,0,0,0,0,0,0,0,0,0,0
+1012,HAVANA,4,thu,0,0,0,0,0,0,0,0,0,0
+1012,HAVANA,5,fri,0,0,0,0,0,0,0,0,0,0
+1012,HAVANA,6,sat,0,0,0,0,0,0,0,0,0,0
+1012,HAVANA,7,sun,0,0,0,0,0,0,0,0,0,0
+1013,REVOLUTION,1,mon,0.18,0.18,0.24,0.35,0.45,0.37,0.2,0,0,0
+1013,REVOLUTION,2,tue,0.14,0.11,0.14,0.14,0.11,0.08,0.04,0,0,0
+1013,REVOLUTION,3,wed,0.11,0.11,0.15,0.24,0.28,0.19,0.08,0,0,0
+1013,REVOLUTION,4,thu,0.11,0.11,0.11,0.18,0.23,0.21,0.13,0,0,0
+1013,REVOLUTION,5,fri,0.45,0.6,0.64,0.59,0.55,0.55,0.36,0,0,0
+1013,REVOLUTION,6,sat,0.41,0.56,0.79,0.95,0.94,0.73,0.45,0,0,0
+1013,REVOLUTION,7,sun,0.1,0.1,0.14,0.18,0.21,0.21,0.19,0,0,0
+1014,O2 Academy,1,mon,0,0,0,0,0,0,0,0,0,0
+1014,O2 Academy,2,tue,0,0,0,0,0,0,0,0,0,0
+1014,O2 Academy,3,wed,0,0,0,0,0,0,0,0,0,0
+1014,O2 Academy,4,thu,0,0,0,0,0,0,0,0,0,0
+1014,O2 Academy,5,fri,0,0,0,0,0,0,0,0,0,0
+1014,O2 Academy,6,sat,0,0,0,0,0,0,0,0,0,0
+1014,O2 Academy,7,sun,0,0,0,0,0,0,0,0,0,0
