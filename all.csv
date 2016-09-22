@@ -1,0 +1,161 @@
+clubid,name,address,city,postcode,longtiude,latitude,phone
+1001,CLUB REPUBLIC,Gravel Street,Leicester,LE1 3AG,52.6392428,-1.133437,0116 251 1442
+1002,THE FAN CLUB,40 Abbey St,Leicester,LE1 3TD,52.6395936,-1.132488,0116 242 5765
+1003,VENOM,94-96 Belgrave Gate,Leicester,LE1 3GR,52.6392501,-1.1312913,0116 251 7986
+1004,THE BASEMENT,1 Wellington St,Leicester,LE1 6HH,52.6317195,-1.1321709,0116 254 6580
+1005,MOSH,37 St Nicholas Place,Leicester,LE1 4LD,52.6352069,-1.1394568,0116 248 9241
+1006,HELSINKI,94 Rutland St,Leicester,LE1 1SB,52.6363739,-1.1269825,0787 264 7540
+1007,XY,2 King St,Leicester,LE1 6RH,52.6317139,-1.1347606,0116 254 8900
+1008,GHOST,6 Market Place Approach,Leicester,LE1 5EH,52.6344351,-1.1321907,0787 185 8385
+1009,FAT CAT BAR,41 Belvoir St,Leicester,LE1 6SL,52.632772,-1.131657,0116 255 3610
+1010,MARZ BAR,34 Belvoir Street,Leicester,LE1 6QH,52.632627,-1.1315332,0116 255 4093
+1011,BLUEPRINT,97 Church Gate,Leicester,LE1 3AN,52.6391078,-1.1351579,0116 248 9447
+1012,HAVANA,25 Yeoman Street,Leicester,LE1 1UT ,52.6352651,-1.1288846,0116 253 1771
+1013,REVOLUTION,6 New Walk,Leicester,LE1 6TF,52.6300869,-1.129796,0116 255 9633
+1014,O2 Academy,University Rd,Leicester,LE1 7RH,52.6217203,-1.1252799,0116 223 1181
+**************************************************************************
+date,day,clubid,name,event_name,start_time ,end_time,description,ind_music,ind_dress,ind_affordable,ind_club,ind_bar,ind_over21,ind_cost,photoid,Coefficient,last_coefficient
+01/08/2016,mon,1001,CLUB REPUBLIC,Quids In Monday,11,3.3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p",Commercial,Casual,1,1,0,0,5,"cr_m1.jpg, cr_m2.jpg, cr_m3.jpg, cr_m4.jpg ",0.7,0.6
+01/08/2016,mon,1009,FAT CAT BAR,Coupe de Troupe,9,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p",Commercial,"No trainers, No hoodies",0,0,1,0,0,"fcb_m1.jpg, fcb_m2.jpg, fcb_m3.jpg, fcb_m4.jpg ",0,0
+01/08/2016,mon,1010,MARZ BAR,Arise and Shinola,9,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p","Hip Hop, Commercial",Casual,1,0,1,0,0,"mb_m1.jpg, mb_m2.jpg, mb_m3.jpg, mb_m4.jpg ",0.4,0.6
+01/08/2016,mon,1013,REVOLUTION,Speedbolt,11.3,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p","Hip Hop, Commercial","No trainers, No hoodies",0,0,1,0,0,"r_m1.jpg, r_m2.jpg, r_m3.jpg, r_m4.jpg ",0.7,0.1
+02/08/2016,tue,1005,MOSH,The Monte Magum,10,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p","Rock,Indie",Casual,1,1,0,0,5,"m_m1.jpg, m_m2.jpg, m_m3.jpg, m_m4.jpg ",0.8,0.6
+02/08/2016,tue,1004,THE BASEMENT,Colony Clutch,10,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p","Rock, Indie, Hip Hop",Casual,0,1,0,0,5,"tb_m1.jpg, tb_m2.jpg, tb_m3.jpg, tb_m4.jpg ",0.8,0.9
+02/08/2016,tue,1009,FAT CAT BAR,Basking Bingo,9,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p","Hip Hop, Commercial","No trainers, No hoodies",1,0,1,0,0,"fcb_m1.jpg, fcb_m2.jpg, fcb_m3.jpg, fcb_m4.jpg ",0.4,0.2
+02/08/2016,tue,1013,REVOLUTION,Project God,11.3,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p","Hip Hop, Commercial","No trainers, No hoodies",0,0,1,0,0,"r_m1.jpg, r_m2.jpg, r_m3.jpg, r_m4.jpg ",0.8,0.9
+03/08/2016,wed,1009,FAT CAT BAR,Aria Safari,9,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p","Hip Hop, Commercial","No trainers, No hoodies",1,0,1,0,0,"fcb_m1.jpg, fcb_m2.jpg, fcb_m3.jpg, fcb_m4.jpg ",0.9,0.2
+03/08/2016,wed,1013,REVOLUTION,Bora Bora Boar Hunt,11.3,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p","Hip Hop, Commercial","No trainers, No hoodies",0,0,1,0,0,"r_m1.jpg, r_m2.jpg, r_m3.jpg, r_m4.jpg ",0.3,0.6
+03/08/2016,wed,1014,O2 ACADEMY,Deliveranch,11,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p","Disco, 90's, Commercial",Casual,1,1,0,0,5,"o2_m1.jpg, o2_m2.jpg, o2_m3.jpg, o2_m4.jpg ",0.7,0.6
+04/08/2016,thu,1003,VENOM,Pick up the Peaces,10,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p",Commercial,Casual,1,1,0,0,5,"v_m1.jpg, v_m2.jpg, v_m3.jpg, v_m4.jpg ",0.7,0.3
+04/08/2016,thu,1004,THE BASEMENT,Destination Destin,10,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p","Rock, Indie",Casual,1,0,1,0,0,"tb_m1.jpg, tb_m2.jpg, tb_m3.jpg, tb_m4.jpg ",0.9,0
+04/08/2016,thu,1009,FAT CAT BAR,Hope Grows Fondler,9,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p","Hip Hop, Commercial","No trainers, No hoodies",1,0,1,0,0,"fcb_m1.jpg, fcb_m2.jpg, fcb_m3.jpg, fcb_m4.jpg ",0.6,0.5
+04/08/2016,thu,1013,REVOLUTION,Prawn Utopia,11.3,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p",Commercial,"No trainers, No hoodies",0,0,1,0,0,"r_m1.jpg, r_m2.jpg, r_m3.jpg, r_m4.jpg ",0.1,0.1
+05/08/2016,fri,1001,CLUB REPUBLIC,Book Trials,10,4,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p","Commercial, House",Casual,1,1,0,0,5,"cr_m1.jpg, cr_m2.jpg, cr_m3.jpg, cr_m4.jpg ",0.7,0.7
+05/08/2016,fri,1002,THE FAN CLUB,Howl Movement,10,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p",Commercial,"No trainers, No hoodies",0,1,0,0,5,"tfc_m1.jpg, tfc_m2.jpg, tfc_m3.jpg, tfc_m4.jpg ",0.7,0.3
+05/08/2016,fri,1003,VENOM,Book Bound,11,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p",Commercial,"No trainers, No hoodies",0,1,0,0,5,"v_m1.jpg, v_m2.jpg, v_m3.jpg, v_m4.jpg ",0.8,0.2
+05/08/2016,fri,1004,THE BASEMENT,Dude Raunch,10,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p","Rock, Indie, Hip Hop",Casual,0,1,0,0,5,"tb_m1.jpg, tb_m2.jpg, tb_m3.jpg, tb_m4.jpg ",0.4,0.1
+05/08/2016,fri,1005,MOSH,Open the Window,10,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p","Rock, Indie",Casual,1,1,0,0,5,"m_m1.jpg, m_m2.jpg, m_m3.jpg, m_m4.jpg ",0.6,0
+05/08/2016,fri,1006,HELSINKI,Apocalypso,10,4,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p",Commercial,"No trainers, No hoodies",0,1,0,0,5,"h_m1.jpg, h_m2.jpg, h_m3.jpg, h_m4.jpg ",0.1,0
+05/08/2016,fri,1007,XY,Chapter Elvis,11,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p","Hip Hop, Commercial",Smart,0,1,0,0,5,"xy_m1.jpg, xy_m2.jpg, xy_m3.jpg, xy_m4.jpg ",0.7,0.6
+05/08/2016,fri,1008,GHOST,Sprit of the Arts,10,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p",Commercial,"No trainers, No hoodies",0,1,0,0,5,"g_m1.jpg, g_m2.jpg, g_m3.jpg, g_m4.jpg ",0.3,0.4
+05/08/2016,fri,1009,FAT CAT BAR,Striders on the Storm,11,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p","Hip Hop, Commercial",Smart,0,0,1,0,0,"fcb_m1.jpg, fcb_m2.jpg, fcb_m3.jpg, fcb_m4.jpg ",1,0.1
+05/08/2016,fri,1010,MARZ BAR,Earth Cup,10,4,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p",Commercial,Smart,0,0,1,0,0,"mb_m1.jpg, mb_m2.jpg, mb_m3.jpg, mb_m4.jpg ",0.4,0.1
+05/08/2016,fri,1011,BLUEPRINT,Greenclick,10,4,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p",Commercial,"No trainers, No hoodies",0,1,0,0,5,"b_m1.jpg, b_m2.jpg, b_m3.jpg, b_m4.jpg ",0.8,0.5
+05/08/2016,fri,1012,HAVANA,Piss Focus,10,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p",Commercial,"No trainers, No hoodies",0,1,0,0,5,"hv_m1.jpg, hv_m2.jpg, hv_m3.jpg, hv_m4.jpg ",0.8,0.2
+05/08/2016,fri,1013,REVOLUTION,The Buffoon Buffet,11.3,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p","Hip Hop, Commercial","No trainers, No hoodies",0,0,1,0,0,"r_m1.jpg, r_m2.jpg, r_m3.jpg, r_m4.jpg ",0.1,1
+05/08/2016,fri,1014,O2 ACADEMY,Future Engineers of Canada,11,4,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p",Commercial,Casual,1,1,0,0,5,"o2_m1.jpg, o2_m2.jpg, o2_m3.jpg, o2_m4.jpg ",0.3,0.9
+06/08/2016,sat,1001,CLUB REPUBLIC,Blog a Thong,10,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p",Commercial,Smart,0,1,0,0,5,"cr_m1.jpg, cr_m2.jpg, cr_m3.jpg, cr_m4.jpg ",0.6,0.9
+06/08/2016,sat,1002,THE FAN CLUB,Pineapple Day,11,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p",Commercial,Smart,0,1,0,0,5,"tfc_m1.jpg, tfc_m2.jpg, tfc_m3.jpg, tfc_m4.jpg ",0.5,0.7
+06/08/2016,sat,1003,VENOM,Lingo Bingo,10,4,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p",Commercial,"No trainers, No hoodies",0,1,0,0,5,"v_m1.jpg, v_m2.jpg, v_m3.jpg, v_m4.jpg ",0.7,0.3
+06/08/2016,sat,1004,THE BASEMENT,Soma Night,10,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p","Rock, Indie",Casual,0,1,0,0,5,"tb_m1.jpg, tb_m2.jpg, tb_m3.jpg, tb_m4.jpg ",0.6,0.8
+06/08/2016,sat,1005,MOSH,Dutch Auction Rollover,10,4,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p","Rock, Indie",Smart,1,1,0,0,5,"m_m1.jpg, m_m2.jpg, m_m3.jpg, m_m4.jpg ",0.9,0.4
+06/08/2016,sat,1006,HELSINKI,Pigeon Wednesday,10,4,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p",Commercial,"No trainers, No hoodies",0,1,0,0,5,"h_m1.jpg, h_m2.jpg, h_m3.jpg, h_m4.jpg ",0.2,0.9
+06/08/2016,sat,1007,XY,Corn Dog Social,10,4,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p",Commerical,Smart,0,1,0,0,5,"xy_m1.jpg, xy_m2.jpg, xy_m3.jpg, xy_m4.jpg ",0.6,0.9
+06/08/2016,sat,1008,GHOST,Nude Attitude,10,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p",Commerical,"No trainers, No hoodies",0,1,0,0,5,"g_m1.jpg, g_m2.jpg, g_m3.jpg, g_m4.jpg ",0.7,0.3
+06/08/2016,sat,1009,FAT CAT BAR,Hoodie,9,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p","Hip Hop, Commercial",Smart,0,0,1,0,0,"fcb_m1.jpg, fcb_m2.jpg, fcb_m3.jpg, fcb_m4.jpg ",0.6,0.6
+06/08/2016,sat,1010,MARZ BAR,Slam Banjo,9,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p","Hip Hop, Commercial",Smart,0,0,1,0,0,"mb_m1.jpg, mb_m2.jpg, mb_m3.jpg, mb_m4.jpg ",1,0.1
+06/08/2016,sat,1011,BLUEPRINT,That’s the Wrong Bong,10,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p",Commercial,"No trainers, No hoodies",0,1,0,0,5,"b_m1.jpg, b_m2.jpg, b_m3.jpg, b_m4.jpg ",0.5,0
+06/08/2016,sat,1012,HAVANA,Waltzing with Eternity,11,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p",Commercial,"No trainers, No hoodies",0,1,0,0,5,"hv_m1.jpg, hv_m2.jpg, hv_m3.jpg, hv_m4.jpg ",0.9,0.1
+06/08/2016,sat,1013,REVOLUTION,XORCat 5000,11.3,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p","Hip Hop, Commercial","No trainers, No hoodies",0,0,1,0,0,"r_m1.jpg, r_m2.jpg, r_m3.jpg, r_m4.jpg ",0.8,0.7
+07/08/2016,sun,1013,REVOLUTION,Call it Green,11.3,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p","Hip Hop, Commercial","No trainers, No hoodies",0,0,1,0,0,"r_m1.jpg, r_m2.jpg, r_m3.jpg, r_m4.jpg ",0.2,1
+***************************************************************************
+id,name,dayid,day,8,9,10,11,12,1,2,3,4,5
+1001,CLUB REPUBLIC,1,mon,0,0,0,0,0,0,0,0,0,0
+1001,CLUB REPUBLIC,2,tue,0,0,0,0,0,0,0,0,0,0
+1001,CLUB REPUBLIC,3,wed,0,0,0,0,0,0,0,0,0,0
+1001,CLUB REPUBLIC,4,thu,0,0,0,0,0,0,0,0,0,0
+1001,CLUB REPUBLIC,5,fri,0,0,0,0,0,0,0,0,0,0
+1001,CLUB REPUBLIC,6,sat,0,0,0,0,0,0,0,0,0,0
+1001,CLUB REPUBLIC,7,sun,0,0,0,0,0,0,0,0,0,0
+1002,THE FAN CLUB,1,mon,0,0,0,0,0,0,0,0,0,0
+1002,THE FAN CLUB,2,tue,0,0,0,0,0,0,0,0,0,0
+1002,THE FAN CLUB,3,wed,0,0,0,0,0,0,0,0,0,0
+1002,THE FAN CLUB,4,thu,0,0,0,0,0,0,0,0,0,0
+1002,THE FAN CLUB,5,fri,0,0,0,0,0,0,0,0,0,0
+1002,THE FAN CLUB,6,sat,0,0,0,0,0,0,0,0,0,0
+1002,THE FAN CLUB,7,sun,0,0,0,0,0,0,0,0,0,0
+1003,VENOM,1,mon,0,0,0,0,0,0,0,0,0,0
+1003,VENOM,2,tue,0,0,0,0,0,0,0,0,0,0
+1003,VENOM,3,wed,0,0,0,0,0,0,0,0,0,0
+1003,VENOM,4,thu,0,0,0,0,0,0,0,0,0,0
+1003,VENOM,5,fri,0,0,0.02,0.05,0.11,0.14,0.13,0.07,0,0
+1003,VENOM,6,sat,0,0,0.22,0.47,0.77,0.95,0.86,0.6,0,0
+1003,VENOM,7,sun,0,0,0,0,0,0,0,0,0,0
+1004,THE BASEMENT,1,mon,0,0,0,0,0,0,0,0,0,0
+1004,THE BASEMENT,2,tue,0,0,0,0,0,0,0,0,0,0
+1004,THE BASEMENT,3,wed,0,0,0,0,0,0,0,0,0,0
+1004,THE BASEMENT,4,thu,0,0,0,0.04,0.15,0.37,0.49,0.33,0.49,0
+1004,THE BASEMENT,5,fri,0,0,0,0,0.04,0.19,0.46,0.66,0.71,0.33
+1004,THE BASEMENT,6,sat,0,0,0.1,0.19,0.3,0.46,0.75,0.95,0,0
+1004,THE BASEMENT,7,sun,0,0,0,0,0,0,0,0,0,0
+1005,MOSH,1,mon,0,0,0,0,0,0,0,0,0,0
+1005,MOSH,2,tue,0,0,0,0.3,0.64,0.82,0.67,0,0,0
+1005,MOSH,3,wed,0,0,0,0,0,0,0,0,0,0
+1005,MOSH,4,thu,0,0,0,0,0,0,0,0,0,0
+1005,MOSH,5,fri,0,0,0,0.34,0.62,0.75,0.58,0,0,0
+1005,MOSH,6,sat,0,0,0,0.31,0.71,0.95,0.74,0,0,0
+1005,MOSH,7,sun,0,0,0,0,0,0,0,0,0,0
+1006,HELSINKI,1,mon,0,0,0,0,0,0,0,0,0,0
+1006,HELSINKI,2,tue,0,0,0,0,0,0,0,0,0,0
+1006,HELSINKI,3,wed,0,0,0,0,0,0,0,0,0,0
+1006,HELSINKI,4,thu,0,0,0,0,0,0,0,0,0,0
+1006,HELSINKI,5,fri,0,0,0,0,0,0,0,0,0,0
+1006,HELSINKI,6,sat,0,0,0,0,0,0,0,0,0,0
+1006,HELSINKI,7,sun,0,0,0,0,0,0,0,0,0,0
+1007,XY,1,mon,0,0,0,0,0,0,0,0,0,0
+1007,XY,2,tue,0,0,0,0,0,0,0,0,0,0
+1007,XY,3,wed,0,0,0,0,0,0,0,0,0,0
+1007,XY,4,thu,0,0,0,0,0,0,0,0,0,0
+1007,XY,5,fri,0,0,0,0,0,0,0,0,0,0
+1007,XY,6,sat,0,0,0,0,0,0,0,0,0,0
+1007,XY,7,sun,0,0,0,0,0,0,0,0,0,0
+1008,GHOST,1,mon,0,0,0,0,0,0,0,0,0,0
+1008,GHOST,2,tue,0,0,0,0,0,0,0,0,0,0
+1008,GHOST,3,wed,0,0,0,0,0,0,0,0,0,0
+1008,GHOST,4,thu,0,0,0,0,0,0,0,0,0,0
+1008,GHOST,5,fri,0,0,0,0,0,0,0,0,0,0
+1008,GHOST,6,sat,0,0,0,0,0,0,0,0,0,0
+1008,GHOST,7,sun,0,0,0,0,0,0,0,0,0,0
+1009,FAT CAT BAR,1,mon,0.05,0.05,0.08,0.1,0.09,0,0,0,0,0
+1009,FAT CAT BAR,2,tue,0.04,0.04,0.07,0.07,0.06,0,0,0,0,0
+1009,FAT CAT BAR,3,wed,0.04,0.04,0.05,0.05,0.04,0,0,0,0,0
+1009,FAT CAT BAR,4,thu,0.06,0.06,0.07,0.18,0.3,0.37,0.3,0,0,0
+1009,FAT CAT BAR,5,fri,0.15,0.19,0.26,0.35,0.37,0.33,0.2,0,0,0
+1009,FAT CAT BAR,6,sat,0.13,0.16,0.31,0.6,0.9,0.95,0.67,0,0,0
+1009,FAT CAT BAR,7,sun,0,0,0,0,0,0,0,0,0,0
+1010,MARZ BAR,1,mon,0,0,0,0,0,0,0,0,0,0
+1010,MARZ BAR,2,tue,0,0,0,0,0,0,0,0,0,0
+1010,MARZ BAR,3,wed,0,0,0,0,0,0,0,0,0,0
+1010,MARZ BAR,4,thu,0,0,0,0,0,0,0,0,0,0
+1010,MARZ BAR,5,fri,0,0,0,0,0,0,0,0,0,0
+1010,MARZ BAR,6,sat,0,0,0,0,0,0,0,0,0,0
+1010,MARZ BAR,7,sun,0,0,0,0,0,0,0,0,0,0
+1011,BLUEPRINT,1,mon,0,0,0,0,0,0,0,0,0,0
+1011,BLUEPRINT,2,tue,0,0,0,0,0,0,0,0,0,0
+1011,BLUEPRINT,3,wed,0,0,0,0,0,0,0,0,0,0
+1011,BLUEPRINT,4,thu,0,0,0,0,0,0,0,0,0,0
+1011,BLUEPRINT,5,fri,0,0,0,0,0,0,0,0,0,0
+1011,BLUEPRINT,6,sat,0,0,0,0,0,0,0,0,0,0
+1011,BLUEPRINT,7,sun,0,0,0,0,0,0,0,0,0,0
+1012,HAVANA,1,mon,0,0,0,0,0,0,0,0,0,0
+1012,HAVANA,2,tue,0,0,0,0,0,0,0,0,0,0
+1012,HAVANA,3,wed,0,0,0,0,0,0,0,0,0,0
+1012,HAVANA,4,thu,0,0,0,0,0,0,0,0,0,0
+1012,HAVANA,5,fri,0,0,0,0,0,0,0,0,0,0
+1012,HAVANA,6,sat,0,0,0,0,0,0,0,0,0,0
+1012,HAVANA,7,sun,0,0,0,0,0,0,0,0,0,0
+1013,REVOLUTION,1,mon,0.18,0.18,0.24,0.35,0.45,0.37,0.2,0,0,0
+1013,REVOLUTION,2,tue,0.14,0.11,0.14,0.14,0.11,0.08,0.04,0,0,0
+1013,REVOLUTION,3,wed,0.11,0.11,0.15,0.24,0.28,0.19,0.08,0,0,0
+1013,REVOLUTION,4,thu,0.11,0.11,0.11,0.18,0.23,0.21,0.13,0,0,0
+1013,REVOLUTION,5,fri,0.45,0.6,0.64,0.59,0.55,0.55,0.36,0,0,0
+1013,REVOLUTION,6,sat,0.41,0.56,0.79,0.95,0.94,0.73,0.45,0,0,0
+1013,REVOLUTION,7,sun,0.1,0.1,0.14,0.18,0.21,0.21,0.19,0,0,0
+1014,O2 Academy,1,mon,0,0,0,0,0,0,0,0,0,0
+1014,O2 Academy,2,tue,0,0,0,0,0,0,0,0,0,0
+1014,O2 Academy,3,wed,0,0,0,0,0,0,0,0,0,0
+1014,O2 Academy,4,thu,0,0,0,0,0,0,0,0,0,0
+1014,O2 Academy,5,fri,0,0,0,0,0,0,0,0,0,0
+1014,O2 Academy,6,sat,0,0,0,0,0,0,0,0,0,0
+1014,O2 Academy,7,sun,0,0,0,0,0,0,0,0,0,0
+
